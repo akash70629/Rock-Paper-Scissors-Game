@@ -4,8 +4,51 @@ html {
     /* width: 100%; */
     overflow: hidden;
     border: 0px;
+    background: red;
+    animation: mymove 10s infinite;
+    animation-direction: alternate;
+    /* filter: blur(5px); */
 }
 
+
+
+@keyframes mymove {
+    0% {
+        background: #FF0000;
+    }
+
+    10% {
+        background: #FF7300;
+    }
+
+    20% {
+        background: #FFB000;
+    }
+
+    30% {
+        background: #48FF00;
+    }
+
+    40% {
+        background: #00FFD5;
+    }
+
+    50% {
+        background: #FF7300;
+    }
+
+    70% {
+        background: #002BFF;
+    }
+
+    90% {
+        background: #FF00C8;
+    }
+
+    100% {
+        background: #FF0000;
+    }
+}
 
 .heading {
     text-align: center;
@@ -27,6 +70,7 @@ html {
     border: 1px solid blue;
     height: 560px;
     min-width: 370px;
+    background-color: white;
 
 }
 
