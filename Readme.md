@@ -5,7 +5,7 @@ Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken) is a fun a
 
 It's a digital version of the Evergreen Rock, Paper Scissors game.
 
-# Here is the link -  https://akash70629.github.io/Rock-Paper-Scissors-Game/
+Here is the link -  https://akash70629.github.io/Rock-Paper-Scissors-Game/
 
 Keep playing & enjoying this (G)old game in a digital version. 
 
