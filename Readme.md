@@ -1,5 +1,8 @@
 # Rock, Paper Scissors Game
 
+# It's still in the development phase, so it might not be responsive on your phone's screen.
+
+
 Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken) is a fun and easy hand game that anyone can learn and enjoy. It’s a great way to make minor decisions when you and a friend can’t agree on something, or even just an entertaining way to pass the time.
 
 
@@ -13,7 +16,7 @@ Keep playing & enjoying this (G)old game in a digital version.
 
 ![userwin](https://github.com/akash70629/Rock-Paper-Scissors-Game/assets/76689571/48fb24be-01bf-492f-8a63-e2864fa66124)
 
-If you have any suggestions about this game or any website developed by me then feel free to contact me.
+If you have any suggestions about this game or any website I developed, feel free to contact me.
 
 
 # Determine the winner - 
